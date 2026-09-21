@@ -96,3 +96,10 @@ Verify with `crontab -l`.
 ## License
 
 MIT
+
+## Author
+Aditya Devan
+
+LinkedIn: https://www.linkedin.com/in/aditya-devan-72a4832b7/
+
+Questions and suggestions are welcome, open an issue or reach out.
